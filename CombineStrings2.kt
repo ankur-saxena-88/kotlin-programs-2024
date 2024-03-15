@@ -14,3 +14,5 @@ fun main(){
     // print greeting
     println("$greeting")
 }
+
+// Out: Hi, Ankur Saxena!
