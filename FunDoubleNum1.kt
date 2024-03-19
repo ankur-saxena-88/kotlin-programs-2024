@@ -2,7 +2,7 @@
 // Date: Tue, 19-03-2024
 
 /*
-Write a Kotlin program to define a basic function to doubler a number.
+Write a Kotlin program to define a basic function to double a number.
 Where, num = 5
 */
 
