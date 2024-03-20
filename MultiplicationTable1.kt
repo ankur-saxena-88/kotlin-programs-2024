@@ -1,4 +1,4 @@
-// multiplicationtable1.kt
+// MultiplicationTable1.kt
 // Date: Wed, 20-03-2024
 
 /*
