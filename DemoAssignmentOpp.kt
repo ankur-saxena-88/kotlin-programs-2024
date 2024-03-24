@@ -14,17 +14,17 @@ fun main(){
     var num2 = 5
 
     num1 += num2 // num1 = num1 + num2
-    println("a+ = b: $num1")
+    println("a += b: $num1")
 
     num1 -= num2 // num1 = num1 - num2
-    println("a- = b: $num1")
+    println("a -= b: $num1")
 
     num1 *= num2 // num1 = num1 * num2
-    println("a* = b: $num1")
+    println("a *= b: $num1")
 
     num1 /= num2 // num1 = num1 / num2
-    println("a/ = b: $num1")
+    println("a /= b: $num1")
 
     num1 %= num2 // num1 = num1 % num2
-    println("a% = b: $num1")
+    println("a %= b: $num1")
 }
