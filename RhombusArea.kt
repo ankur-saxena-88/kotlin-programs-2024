@@ -5,7 +5,7 @@
 Write a Kotlin program to calculate the area of a rhombus.
 Where, d1 = 256 and d2 = 8
 
-Formula: Area of a rhombus = (d1 * d2) * (1 / 2)
+Formula: Area of a rhombus = (d1 * d2) / 2
 */
 
 fun main(){
